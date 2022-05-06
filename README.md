@@ -1,2 +1,2 @@
 # UKBpheWAS
-Look-up all variants
+Look-up all traits and disease for a variant
